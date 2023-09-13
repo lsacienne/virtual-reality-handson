@@ -87,3 +87,5 @@ Alternatively, you can aim to a blue teleportation area to magnetize the raycast
 <p align="center">
     <img src="./Videos/video.gif" width=100%>
 </p>
+
+Made by Alexandre Viala and Marius Bozane
